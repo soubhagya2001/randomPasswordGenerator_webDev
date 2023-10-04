@@ -40,8 +40,9 @@ body{
 }
 
 .display img{
-    width: 30px;
+    width: 40px;
     cursor: pointer;
+    padding-right: 10px;
 }
 
 .display input{
